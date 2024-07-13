@@ -1,36 +1,43 @@
 {
   "donates": [
     {
-      "name": "Iron",
+      "name": "Silver",
       "price": "99",
       "bonuses": [
         "Полет в хабе", "Доступ к донат чату"
       ]
     },
     {
-      "name": "Iron",
-      "price": "99",
+      "name": "Gold",
+      "price": "299",
       "bonuses": [
         "Полет в хабе", "Доступ к донат чату"
       ]
     },
     {
-      "name": "Iron",
-      "price": "99",
+      "name": "Pearl",
+      "price": "699",
       "bonuses": [
         "Полет в хабе", "Доступ к донат чату"
       ]
     },
     {
-      "name": "Iron",
-      "price": "99",
+      "name": "Jade",
+      "price": "1299",
       "bonuses": [
         "Полет в хабе", "Доступ к донат чату"
       ]
     },
     {
-      "name": "Iron",
-      "price": "99",
+      "name": "Topaz",
+      "price": "2099",
+      "bonuses": [
+        "Полет в хабе", "Доступ к донат чату"
+      ]
+    },
+    {
+      "name": "Coral",
+      "price": "3599",
       "bonuses": [
         "Полет в хабе", "Доступ к донат чату"
       ]
