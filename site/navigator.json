@@ -1,0 +1,38 @@
+{
+  "title": "title",
+  "menuScheme": [
+    "---------",
+    "----i----",
+    "t--------"
+  ],
+  "items": {
+    "i": {
+      "title": "title",
+      "description": [
+        "lore",
+        "lore2",
+        "lo <online>"
+      ],
+      "material": "DIAMOND",
+      "customModelData": 99,
+      "realmId": "GAME-1",
+      "category": null
+    }
+    "t": {
+      "title": "tests",
+      "description": [
+        "lore"
+      ],
+      "material": "IRON_BARS",
+      "customModelData": 99,
+      "realmId": "",
+      "category": {
+        "categoryTitle": "tests",
+        "categoryScheme": [
+          "IIIIIIIII"
+        ],
+        "categoryRealms": "TEST"
+      }
+    }
+  }
+}
