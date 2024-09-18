@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔧 skills: Java Core, Spring (Boot, Data), JDBC, Gradle, Bukkit API, MySQL, Postgres, MongoDB, Redis, Git
+🔧 skills: Java Core, Spring (Boot, Data), JDBC, Gradle, Bukkit API, MySQL, Postgres, MongoDB, Redis, Git, Discord Bots Api, Telegram Bots Api
 
 📖 studying: Spring Security, Kafka, Docker, Hibernate
 
-👀 basic: Linux, Bash, HTML, CSS, React.js, JavaScript, TypeScript
+👀 basic: Linux, Bash, HTML, CSS, React.js, JavaScript, TypeScript, AndroidSDK
 
 Contacts:
 [Telegram](https://inotbaggi.t.me)
