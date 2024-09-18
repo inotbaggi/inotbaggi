@@ -6,6 +6,9 @@
 
 👀 basic: Linux, Bash, HTML, CSS, React.js, JavaScript, TypeScript, AndroidSDK
 
+😊 my projects:
+- [Onrain](https://onrain.qubixmc.net/) - Monitoring of some servers Minecraft (not yet open source)
+
 Contacts:
 [Telegram](https://inotbaggi.t.me)
 [Email](mailto:inotbaggi@gmail.com)
