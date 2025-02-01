@@ -7,6 +7,4 @@
 - [bdebug](https://github.com/inotbaggi/bdebug) - fabric модификация для Minecraft
 
 📜 Связь со мной:
-[Telegram](https://inotbaggi.t.me)
-
-[Email](mailto:inotbaggi@gmail.com)
+[Telegram](https://inotbaggi.t.me), [Email](mailto:inotbaggi@gmail.com)
