@@ -8,3 +8,6 @@
 
 📜 Связь со мной:
 [Telegram](https://inotbaggi.t.me), [Email](mailto:inotbaggi@gmail.com)
+
+
+![](https://komarev.com/ghpvc/?username=inotbaggi&color=green)
