@@ -6,6 +6,8 @@
 - [onrain](https://github.com/inotbaggi/onrain) - мониторинг серверов Minecraft
 - [bdebug](https://github.com/inotbaggi/bdebug) - fabric модификация для Minecraft
 
+🔧 skills: Java, Kotlin, Spring Framework, JDBC, Hibernate, Gradle, Bukkit API, MySQL, Postgres, MongoDB, Redis, Kafka, Minio, Git, Docker, Discord Api, Telegram Api, Linux, Bash, HTML, CSS, React.js, JavaScript, TypeScript, AndroidSDK
+
 📜 Связь со мной:
 [Telegram](https://inotbaggi.t.me), [Email](mailto:inotbaggi@gmail.com)
 
